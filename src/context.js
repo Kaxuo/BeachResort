@@ -5,9 +5,9 @@ import axios from "axios";
 
 
 // if you want to filter something, go to documentation , rest api (search it )
-Client.getEntries({content_type:"beachResortRoom"})
-.then((response) => console.log(response.items))
-.catch(console.error)
+// Client.getEntries({content_type:"beachResortRoom"})
+// .then((response) => console.log(response.items))
+// .catch(console.error)
 
 console.log(items)
 
